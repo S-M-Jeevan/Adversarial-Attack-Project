@@ -1,0 +1,11 @@
+Statement,Predicted Label,Confidence Score,All Scores,All Labels
+"YSRCP MP calls party govt in Andhra 'anti-Hindu', faces disqualification",fake,0.6218658089637756,"[0.6218658089637756, 0.37813419103622437]","['fake', 'real']"
+Gory Video Of A Teenager Hacked To Death In Brazil Passed Off As India,fake,0.5625712275505066,"[0.5625712275505066, 0.437428742647171]","['fake', 'real']"
+Fact Check: Shanghai police drill video goes viral as shooting of three Uyghur Muslims,fake,0.627764880657196,"[0.627764880657196, 0.37223508954048157]","['fake', 'real']"
+"India, China to hold military level talks on 12 October",real,0.5143577456474304,"[0.5143577456474304, 0.48564228415489197]","['real', 'fake']"
+Palghar girls to Sameet Thakkar case all Maharashtra govts tried to shut online dissent,fake,0.6414157748222351,"[0.6414157748222351, 0.3585842251777649]","['fake', 'real']"
+"No, this photo does not show Indian politician Rahul Gandhi meeting a Pakistani intelligence agent in Dubai",real,0.5023560523986816,"[0.5023560523986816, 0.49764391779899597]","['real', 'fake']"
+Modi Degree Row: Right Wing Trolls Desperately Delete Old Tweets On Jitender Tomar,fake,0.509791374206543,"[0.509791374206543, 0.49020856618881226]","['fake', 'real']"
+'Very Happy With My Current Job': Raghuram Rajan Busts Fake News Of...,fake,0.504101037979126,"[0.504101037979126, 0.4958990216255188]","['fake', 'real']"
+UP: Mahapanchayat against 'love jihad' postponed,fake,0.5396624207496643,"[0.5396624207496643, 0.4603375792503357]","['fake', 'real']"
+Fact Check: Photo of Dalit activist goes viral with misleading claim,fake,0.5121951699256897,"[0.5121951699256897, 0.4878048002719879]","['fake', 'real']"

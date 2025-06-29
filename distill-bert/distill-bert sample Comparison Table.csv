@@ -1,0 +1,6 @@
+"Statement","Ground Truth","Zero-Shot (Main)","Confidence","Distil Model","Confidence"
+"""YSRCP MP calls party govt in Andhra 'anti-Hindu', faces disqualification""","real","real","0.94","real","0.70"
+"Gory Video Of A Teenager Hacked To Death In Brazil Passed Off As India","fake","fake","0.99","real","0.54"
+"Fact Check: Shanghai police drill video goes viral as shooting...","fake","fake","0.83","real","0.62"
+"""India, China to hold military level talks on 12 October""","real","real","0.97","real","0.54"
+"'Very Happy With My Current Job': Raghuram Rajan Busts Fake News Of...","fake","fake","0.93","fake","0.51"

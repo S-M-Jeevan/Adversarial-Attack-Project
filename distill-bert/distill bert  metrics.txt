@@ -1,0 +1,22 @@
+Base model performance :
+Metric		Value
+Accuracy	0.416099507
+Precision	0.448773842
+Recall		0.779829545
+F1		0.569699066
+
+
+few Shot results:
+Metric		Value
+Accuracy	0.905041032
+Precision (Fake)0.955613577
+Recall (Fake)	0.851162791
+F1 Score (Fake)	0.900369004
+
+
+performance metrics:
+Metric		Value
+Accuracy	0.905041032
+Precision	0.863829787
+Recall		0.959810875
+F1		0.909294513
