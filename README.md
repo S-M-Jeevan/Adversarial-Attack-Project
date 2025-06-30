@@ -4,7 +4,8 @@
 This repository contains the code, models, and attack recipes from our research paper:
 
 **"Fooling the Fact-Checkers: Adversarial Attacks on Transformer-Based Fake News Detection Models"**  
-S M Jeevan, Ayush Sahu, Shivani Tufchi  
+Co-authors: S M Jeevan, Ayush Sahu,
+Author: Shivani Tufchi  
 Bennett University, 2025  
 Manuscript submitted to the International Journal of Multimedia Information Retrieval.
 
