@@ -4,7 +4,7 @@
 This repository contains the code, models, and attack recipes from our research paper:
 
 **"Fooling the Fact-Checkers: Adversarial Attacks on Transformer-Based Fake News Detection Models"**  
-S M Jeevan, Ayush Sahu, Mentor Name  
+S M Jeevan, Ayush Sahu, Shivani Tufchi  
 Bennett University, 2025  
 Manuscript submitted to the International Journal of Multimedia Information Retrieval.
 
@@ -33,4 +33,3 @@ Our key contributions:
 - **Indian Fake News Detection (IFND) dataset**
   - 4,261 labeled news articles (2,130 real, 2,131 fake)
   - Covers political, health, social, and other domains
-  - [Dataset preprocessing scripts included]
